@@ -1,0 +1,2 @@
+# cosec-server
+ Autoinstall
